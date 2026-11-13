@@ -37,7 +37,7 @@ SUCHINO@htb[/htb]$ variable = "this will result with an error."
 command not found: variable
 ```
 
-**Without an Error** \
+**Without an Error** 
 ```bash
 SUCHINO@htb[/htb]$ variable="Declared without an error."
 SUCHINO@htb[/htb]$ echo $variable
