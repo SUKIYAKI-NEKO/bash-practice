@@ -5,8 +5,8 @@
 
 domain=(www.inlanefreight.com ftp.inlanefreight.com vpn.inlanefreight.com www2.inlanefreight.com)
 
-echo -e ${domain[0]}
+echo -e ${domain[1]}
 
 # SUCHINO@htb[/htb]$ ./Arrays.sh
-# www.inlanefreight.com
+# ftp.inlanefreight.com
 
