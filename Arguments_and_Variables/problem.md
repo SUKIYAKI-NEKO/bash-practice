@@ -1,9 +1,9 @@
-include simple.sh
+** include simple.sh **
 
 ## execution Privileges
 
 ```bash
-SUCHINO@htb[/htb]$ chmod +x cidr.sh
+SUCHINO@htb[/htb]$ chmod +x simple.sh
 ```
 
 ## without Arguments
