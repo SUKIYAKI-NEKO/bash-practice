@@ -19,7 +19,7 @@ cat >> file.txt
 ## `<` 輸入重導向
 
 把檔案內容當成指令的輸入。
-
+把檔案直接當作指令丟出去不等鍵盤
 ```bash
 cat < file.txt
 bash < input.sh
